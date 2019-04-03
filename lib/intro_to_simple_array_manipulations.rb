@@ -7,5 +7,6 @@ def using_unshift(arr, str)
 end
 
 def using_pop(arr)
-  arr.pop
+  last = arr.pop
+  last
 end
