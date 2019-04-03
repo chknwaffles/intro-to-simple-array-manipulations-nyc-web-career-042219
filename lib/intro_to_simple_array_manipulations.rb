@@ -25,3 +25,7 @@ def shift_with_args(arr)
   first2 = arr.shift(2)
   first2
 end
+
+def using_concat(arr, arr2)
+  arr.concat(arr2)
+end
