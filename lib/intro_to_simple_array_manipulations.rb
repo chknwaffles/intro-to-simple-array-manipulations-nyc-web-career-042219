@@ -22,4 +22,6 @@ def using_shift(arr)
 end
 
 def shift_with_args(arr)
-  first2 = 
+  first2 = arr.shift(2)
+  first2
+end
