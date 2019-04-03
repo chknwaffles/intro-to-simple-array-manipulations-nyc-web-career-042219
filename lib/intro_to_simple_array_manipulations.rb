@@ -15,3 +15,8 @@ def pop_with_args(arr)
   last = arr.pop(2)
   last
 end
+
+def using_shift(arr)
+  first = arr.shift
+  first
+end
