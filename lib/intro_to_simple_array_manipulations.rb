@@ -10,3 +10,7 @@ def using_pop(arr)
   last = arr.pop
   last
 end
+
+def pop_with_args(arr)
+  last = arr.pop
+end
